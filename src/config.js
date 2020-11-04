@@ -1,3 +1,6 @@
+
+/// <reference path="../typings/phaser.d.ts" />
+
 import Phaser from 'phaser';
 
 export default {
